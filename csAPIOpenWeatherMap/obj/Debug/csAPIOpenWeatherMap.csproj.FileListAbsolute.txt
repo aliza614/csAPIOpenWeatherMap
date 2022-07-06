@@ -1,0 +1,11 @@
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\obj\Debug\csAPIOpenWeatherMap.csproj.AssemblyReference.cache
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\obj\Debug\csAPIOpenWeatherMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\obj\Debug\csAPIOpenWeatherMap.csproj.CoreCompileInputs.cache
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\bin\Debug\csAPIOpenWeatherMap.exe.config
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\bin\Debug\csAPIOpenWeatherMap.exe
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\bin\Debug\csAPIOpenWeatherMap.pdb
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\obj\Debug\csAPIOpenWeatherMap.csproj.CopyComplete
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\obj\Debug\csAPIOpenWeatherMap.exe
+C:\Users\Owner\repos\csAPIOpenWeatherMap\csAPIOpenWeatherMap\obj\Debug\csAPIOpenWeatherMap.pdb
